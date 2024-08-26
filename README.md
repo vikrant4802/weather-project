@@ -2,7 +2,7 @@
 
 Welcome to the **Weather Web App**, a sleek and responsive platform designed to provide real-time weather updates for any location worldwide. Developed with a focus on simplicity and efficiency, this project delivers accurate weather information at your fingertips.
 
-Live at: [Weather-App](https://vikrant4802.github.io/weather-project/)
+Live at: [https://vikrant4802.github.io/weather-project/](https://vikrant4802.github.io/weather-project/)
 
 
 ## Project Purpose 🎯
