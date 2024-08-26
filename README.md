@@ -29,3 +29,14 @@ The primary goal of this project is to provide users with instant access to curr
 - **API Integration**: Seamlessly integrated with the OpenWeather API for reliable data.
 - **Clean UI/UX**: Focused on delivering a simple yet effective user interface and experience.
 - **Responsive Layout**: Designed to work flawlessly on all screen sizes.
+
+### Demo Presentation
+
+https://github.com/user-attachments/assets/b1578848-633c-4f0d-bca3-76ea4b7f2bfe
+
+
+### Home Page
+![Screenshot 2024-02-04 162857 (1)](https://github.com/user-attachments/assets/278e30b4-f0f0-451e-857b-2fb2cef2bf8c)
+
+
+
